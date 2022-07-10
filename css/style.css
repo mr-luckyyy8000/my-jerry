@@ -442,10 +442,8 @@ a:focus {
 }
 
 .service_section .box .img-box img {
- height: 287px;
-    width: 287px;
-    margin: -60px;
-    padding: 69px;
+     max-height: 100%;
+    max-width: 100%;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
