@@ -443,9 +443,9 @@ a:focus {
 }
 
 .service_section .box .img-box img {
-  max-height: 352%;
-  max-width: 260%;
-  height: 290px;
+  max-height: 316%;
+    max-width: 268%;
+    height: 303px;
   width: 309px;
   margin-left: 120px;
   -webkit-transition: all 0.3s;
